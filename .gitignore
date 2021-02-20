@@ -1,0 +1,8 @@
+/form/myconstants.py
+/entries/custom_website_functions.py
+/url_list/urls.txt
+/url_list/urls_test.txt
+/logs/
+/form_venv/
+.idea/
+*__pycache__*
